@@ -1,0 +1,7 @@
+Sales for day 1 was -$1.00
+Sales for day 2 was $2.00
+Sales for day 3 was $3.00
+Sales for day 4 was $4.00
+Sales for day 5 was $5.00
+_______________________
+Total sales for the period is: $15.00
